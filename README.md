@@ -1,3 +1,1 @@
-Hi, I'm Fuchsia. I'm the lead developer of [DMCA Games](https://github.com/DMCA-Games), a group that develops fangames.
-
-I'm currently working on a few secret projects.
+Hi, I'm Fuchsia.
